@@ -1,0 +1,2404 @@
+{
+  "comments": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut consectetur odio. Praesent tempor libero risus, sed posuere nibh bibendum sit amet",
+      "action_slug": null
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut consectetur odio. Praesent tempor libero risus, sed posuere nibh bibendum sit amet",
+      "action_slug": null
+    }
+  ],
+  "progress_data": [
+    {
+      "account_balance": 45152.41,
+      "date": "2015-08-11"
+    },
+    {
+      "account_balance": 44730.36,
+      "date": "2015-08-12"
+    },
+    {
+      "account_balance": 44599.42,
+      "date": "2015-08-13"
+    },
+    {
+      "account_balance": 44624.36,
+      "date": "2015-08-14"
+    },
+    {
+      "account_balance": 44779,
+      "date": "2015-08-17"
+    },
+    {
+      "account_balance": 44634.59,
+      "date": "2015-08-18"
+    },
+    {
+      "account_balance": 44687.37,
+      "date": "2015-08-19"
+    },
+    {
+      "account_balance": 44382.47,
+      "date": "2015-08-20"
+    },
+    {
+      "account_balance": 43945.18,
+      "date": "2015-08-21"
+    },
+    {
+      "account_balance": 43330.8,
+      "date": "2015-08-24"
+    },
+    {
+      "account_balance": 43077.02,
+      "date": "2015-08-25"
+    },
+    {
+      "account_balance": 43450.27,
+      "date": "2015-08-26"
+    },
+    {
+      "account_balance": 43817.46,
+      "date": "2015-08-27"
+    },
+    {
+      "account_balance": 43830.83,
+      "date": "2015-08-28"
+    },
+    {
+      "account_balance": 43482.86,
+      "date": "2015-08-31"
+    },
+    {
+      "account_balance": 43118.29,
+      "date": "2015-09-01"
+    },
+    {
+      "account_balance": 43362.48,
+      "date": "2015-09-02"
+    },
+    {
+      "account_balance": 43358.57,
+      "date": "2015-09-03"
+    },
+    {
+      "account_balance": 43284.52,
+      "date": "2015-09-04"
+    },
+    {
+      "account_balance": 43562.45,
+      "date": "2015-09-08"
+    },
+    {
+      "account_balance": 43354.26,
+      "date": "2015-09-09"
+    },
+    {
+      "account_balance": 43444.2,
+      "date": "2015-09-10"
+    },
+    {
+      "account_balance": 43653.08,
+      "date": "2015-09-11"
+    },
+    {
+      "account_balance": 43636.21,
+      "date": "2015-09-14"
+    },
+    {
+      "account_balance": 43548.63,
+      "date": "2015-09-15"
+    },
+    {
+      "account_balance": 43616.12,
+      "date": "2015-09-16"
+    },
+    {
+      "account_balance": 43938,
+      "date": "2015-09-17"
+    },
+    {
+      "account_balance": 43803.45,
+      "date": "2015-09-18"
+    },
+    {
+      "account_balance": 43429.38,
+      "date": "2015-09-21"
+    },
+    {
+      "account_balance": 43415.21,
+      "date": "2015-09-22"
+    },
+    {
+      "account_balance": 43318.88,
+      "date": "2015-09-23"
+    },
+    {
+      "account_balance": 43227.88,
+      "date": "2015-09-24"
+    },
+    {
+      "account_balance": 42805.82,
+      "date": "2015-09-25"
+    },
+    {
+      "account_balance": 42411.96,
+      "date": "2015-09-28"
+    },
+    {
+      "account_balance": 42538,
+      "date": "2015-09-29"
+    },
+    {
+      "account_balance": 42897.62,
+      "date": "2015-09-30"
+    },
+    {
+      "account_balance": 42979.26,
+      "date": "2015-10-01"
+    },
+    {
+      "account_balance": 43415.26,
+      "date": "2015-10-02"
+    },
+    {
+      "account_balance": 43362.56,
+      "date": "2015-10-05"
+    },
+    {
+      "account_balance": 43138.79,
+      "date": "2015-10-06"
+    },
+    {
+      "account_balance": 43339.93,
+      "date": "2015-10-07"
+    },
+    {
+      "account_balance": 43312.83,
+      "date": "2015-10-08"
+    },
+    {
+      "account_balance": 43414.6,
+      "date": "2015-10-09"
+    },
+    {
+      "account_balance": 43537.05,
+      "date": "2015-10-12"
+    },
+    {
+      "account_balance": 43356.08,
+      "date": "2015-10-13"
+    },
+    {
+      "account_balance": 43456.85,
+      "date": "2015-10-14"
+    },
+    {
+      "account_balance": 43742.82,
+      "date": "2015-10-15"
+    },
+    {
+      "account_balance": 43831.3,
+      "date": "2015-10-16"
+    },
+    {
+      "account_balance": 43845.05,
+      "date": "2015-10-19"
+    },
+    {
+      "account_balance": 43568.87,
+      "date": "2015-10-20"
+    },
+    {
+      "account_balance": 43562.94,
+      "date": "2015-10-21"
+    },
+    {
+      "account_balance": 43614.57,
+      "date": "2015-10-22"
+    },
+    {
+      "account_balance": 43746.15,
+      "date": "2015-10-23",
+      "daily_return": 0.003
+    },
+    {
+      "account_balance": 43847.87,
+      "date": "2015-10-26"
+    },
+    {
+      "account_balance": 44061.92,
+      "date": "2015-10-27"
+    },
+    {
+      "account_balance": 44053.16,
+      "date": "2015-10-28"
+    },
+    {
+      "account_balance": 43826.05,
+      "date": "2015-10-30",
+      "daily_return": -0.0004
+    },
+    {
+      "account_balance": 43982.49,
+      "date": "2015-11-02",
+      "daily_return": 0.0036
+    },
+    {
+      "account_balance": 43897.67,
+      "date": "2015-11-03",
+      "daily_return": -0.0019
+    },
+    {
+      "account_balance": 43758.92,
+      "date": "2015-11-04",
+      "daily_return": -0.0032
+    },
+    {
+      "account_balance": 43675.44,
+      "date": "2015-11-05",
+      "daily_return": -0.0032
+    },
+    {
+      "account_balance": 43291.79,
+      "date": "2015-11-06",
+      "daily_return": -0.0088
+    },
+    {
+      "account_balance": 42990.65,
+      "date": "2015-11-09",
+      "daily_return": -0.007
+    },
+    {
+      "account_balance": 43079.34,
+      "date": "2015-11-10",
+      "daily_return": 0.0021
+    },
+    {
+      "account_balance": 42965.63,
+      "date": "2015-11-11",
+      "daily_return": -0.0029
+    },
+    {
+      "account_balance": 42627.7257,
+      "date": "2015-11-12",
+      "daily_return": -0.00786453
+    },
+    {
+      "account_balance": 42547.52,
+      "date": "2015-11-13",
+      "daily_return": -0.0019
+    },
+    {
+      "account_balance": 42864.59,
+      "date": "2015-11-16",
+      "daily_return": 0.0075
+    },
+    {
+      "account_balance": 42908.77,
+      "date": "2015-11-17",
+      "daily_return": 0.00103069
+    },
+    {
+      "account_balance": 43296.51,
+      "date": "2015-11-18",
+      "daily_return": 0.00903638
+    },
+    {
+      "account_balance": 43334.37,
+      "date": "2015-11-19",
+      "daily_return": 0.00087444
+    },
+    {
+      "account_balance": 43317.355,
+      "date": "2015-11-20",
+      "daily_return": -0.00039264
+    },
+    {
+      "account_balance": 43457.45,
+      "date": "2015-11-23",
+      "daily_return": 0.0032
+    },
+    {
+      "account_balance": 43531.59,
+      "date": "2015-11-24",
+      "daily_return": 0.00170604
+    },
+    {
+      "account_balance": 43683.3503,
+      "date": "2015-11-25",
+      "daily_return": 0.00348621
+    },
+    {
+      "account_balance": 43683.3503,
+      "date": "2015-11-26",
+      "daily_return": 0.00348621
+    },
+    {
+      "account_balance": 43641.3202,
+      "date": "2015-11-27",
+      "daily_return": -0.00096215
+    },
+    {
+      "account_balance": 43386.2289,
+      "date": "2015-11-30",
+      "daily_return": -0.00584518
+    },
+    {
+      "account_balance": 43770.4,
+      "date": "2015-12-01",
+      "daily_return": 0.00885468
+    },
+    {
+      "account_balance": 43554.24,
+      "date": "2015-12-02",
+      "daily_return": -0.0049385
+    },
+    {
+      "account_balance": 42942.72,
+      "date": "2015-12-03",
+      "daily_return": -0.01404042
+    },
+    {
+      "account_balance": 43523.7,
+      "date": "2015-12-04",
+      "daily_return": 0.01352918
+    },
+    {
+      "account_balance": 43648.39,
+      "date": "2015-12-07",
+      "daily_return": 0.00286488
+    },
+    {
+      "account_balance": 43661.9535,
+      "date": "2015-12-08",
+      "daily_return": -0.00037313
+    },
+    {
+      "account_balance": 43435.25,
+      "date": "2015-12-09",
+      "daily_return": -0.00519224
+    },
+    {
+      "account_balance": 43474.86,
+      "date": "2015-12-10",
+      "daily_return": 0.00091193
+    },
+    {
+      "account_balance": 43189.518,
+      "date": "2015-12-11",
+      "daily_return": -0.00656338
+    },
+    {
+      "account_balance": 43207.817,
+      "date": "2015-12-14",
+      "daily_return": 0.00042369
+    },
+    {
+      "account_balance": 43488.86,
+      "date": "2015-12-15",
+      "daily_return": 0.00650445
+    },
+    {
+      "account_balance": 43873.4,
+      "date": "2015-12-16",
+      "daily_return": 0.00884226
+    },
+    {
+      "account_balance": 43675.41,
+      "date": "2015-12-17",
+      "daily_return": -0.00451276
+    },
+    {
+      "account_balance": 43401.5874,
+      "date": "2015-12-18",
+      "daily_return": -0.00626949
+    },
+    {
+      "account_balance": 43559.3789,
+      "date": "2015-12-21",
+      "daily_return": 0.00363562
+    },
+    {
+      "account_balance": 43757.76,
+      "date": "2015-12-22",
+      "daily_return": 0.00455427
+    },
+    {
+      "account_balance": 43967.65,
+      "date": "2015-12-23",
+      "daily_return": 0.00479663
+    },
+    {
+      "account_balance": 43959.61,
+      "date": "2015-12-24",
+      "daily_return": -0.00018286
+    },
+    {
+      "account_balance": 43982.41,
+      "date": "2015-12-28",
+      "daily_return": -0.00091743
+    },
+    {
+      "account_balance": 44033.464,
+      "date": "2015-12-29",
+      "daily_return": 0.00116078
+    },
+    {
+      "account_balance": 43829.18,
+      "date": "2015-12-30",
+      "daily_return": -0.00463929
+    },
+    {
+      "account_balance": 43753.57,
+      "date": "2015-12-31",
+      "daily_return": -0.00335484
+    },
+    {
+      "account_balance": 43313.44,
+      "date": "2016-01-04",
+      "daily_return": -0.01005929
+    },
+    {
+      "account_balance": 43397.7864,
+      "date": "2016-01-05",
+      "daily_return": 0.00178527
+    },
+    {
+      "account_balance": 43362.64,
+      "date": "2016-01-06",
+      "daily_return": -0.00080987
+    },
+    {
+      "account_balance": 42837.222,
+      "date": "2016-01-07",
+      "daily_return": -0.01211684
+    },
+    {
+      "account_balance": 42609.5166,
+      "date": "2016-01-08",
+      "daily_return": -0.0053156
+    },
+    {
+      "account_balance": 42366.82,
+      "date": "2016-01-11",
+      "daily_return": -0.00569583
+    },
+    {
+      "account_balance": 42733.8308,
+      "date": "2016-01-12",
+      "daily_return": 0.00866269
+    },
+    {
+      "account_balance": 42203.02,
+      "date": "2016-01-13",
+      "daily_return": -0.01242132
+    },
+    {
+      "account_balance": 42418.82,
+      "date": "2016-01-14",
+      "daily_return": 0.00511338
+    },
+    {
+      "account_balance": 42062.2958,
+      "date": "2016-01-15",
+      "daily_return": -0.00840486
+    },
+    {
+      "account_balance": 42117.74,
+      "date": "2016-01-19",
+      "daily_return": 0.00131814
+    },
+    {
+      "account_balance": 42097.67,
+      "date": "2016-01-20",
+      "daily_return": -0.00047652
+    },
+    {
+      "account_balance": 41924.16,
+      "date": "2016-01-21",
+      "daily_return": -0.00412161
+    },
+    {
+      "account_balance": 42421.84,
+      "date": "2016-01-22",
+      "daily_return": 0.01187096
+    },
+    {
+      "account_balance": 42201.9002,
+      "date": "2016-01-25",
+      "daily_return": -0.00518459
+    },
+    {
+      "account_balance": 42443.066,
+      "date": "2016-01-26",
+      "daily_return": 0.00571457
+    },
+    {
+      "account_balance": 42229.9764,
+      "date": "2016-01-27",
+      "daily_return": -0.0050206
+    },
+    {
+      "account_balance": 42267.435,
+      "date": "2016-01-28",
+      "daily_return": 0.00088701
+    },
+    {
+      "account_balance": 42878.7254,
+      "date": "2016-01-29",
+      "daily_return": 0.01446244
+    },
+    {
+      "account_balance": 42923.426,
+      "date": "2016-02-01",
+      "daily_return": 0.00104249
+    },
+    {
+      "account_balance": 42653.55,
+      "date": "2016-02-02",
+      "daily_return": -0.00628738
+    },
+    {
+      "account_balance": 42695.775,
+      "date": "2016-02-03",
+      "daily_return": 0.00098995
+    },
+    {
+      "account_balance": 42685.02,
+      "date": "2016-02-04",
+      "daily_return": -0.0002519
+    },
+    {
+      "account_balance": 99974,
+      "date": "2016-02-05",
+      "daily_return": 1.34145562
+    },
+    {
+      "account_balance": 42384.97,
+      "date": "2016-02-08",
+      "daily_return": -0.57604007
+    },
+    {
+      "account_balance": 42465.89,
+      "date": "2016-02-09",
+      "daily_return": 0.00190917
+    },
+    {
+      "account_balance": 42728.092,
+      "date": "2016-02-10",
+      "daily_return": 0.00617441
+    },
+    {
+      "account_balance": 42507.02,
+      "date": "2016-02-11",
+      "daily_return": -0.00517393
+    },
+    {
+      "account_balance": 42721.4,
+      "date": "2016-02-12",
+      "daily_return": 0.0050434
+    },
+    {
+      "account_balance": 42973.0603,
+      "date": "2016-02-16",
+      "daily_return": 0.00589073
+    },
+    {
+      "account_balance": 43267.01,
+      "date": "2016-02-17",
+      "daily_return": 0.00684033
+    },
+    {
+      "account_balance": 43250.05,
+      "date": "2016-02-18",
+      "daily_return": -0.00039198
+    },
+    {
+      "account_balance": 43305.1661,
+      "date": "2016-02-19",
+      "daily_return": 0.00127436
+    },
+    {
+      "account_balance": 43521.69,
+      "date": "2016-02-22",
+      "daily_return": 0.00499996
+    },
+    {
+      "account_balance": 43380.39,
+      "date": "2016-02-23",
+      "daily_return": -0.00324666
+    },
+    {
+      "account_balance": 43430.542,
+      "date": "2016-02-24",
+      "daily_return": 0.0011561
+    },
+    {
+      "account_balance": 43741.8078,
+      "date": "2016-02-25",
+      "daily_return": 0.00716698
+    },
+    {
+      "account_balance": 43458.4768,
+      "date": "2016-02-26",
+      "daily_return": -0.00647735
+    },
+    {
+      "account_balance": 43388.34,
+      "date": "2016-02-29",
+      "daily_return": -0.00161388
+    },
+    {
+      "account_balance": 43591.41,
+      "date": "2016-03-01",
+      "daily_return": 0.00468029
+    },
+    {
+      "account_balance": 43889.58,
+      "date": "2016-03-03",
+      "daily_return": 0.00684011
+    },
+    {
+      "account_balance": 43921.9489,
+      "date": "2016-03-04",
+      "daily_return": 0.00073751
+    },
+    {
+      "account_balance": 43942.72,
+      "date": "2016-03-07",
+      "daily_return": -0.00014705
+    },
+    {
+      "account_balance": 43841.396,
+      "date": "2016-03-08",
+      "daily_return": -0.00230582
+    },
+    {
+      "account_balance": 43896.6275,
+      "date": "2016-03-09",
+      "daily_return": 0.0012598
+    },
+    {
+      "account_balance": 43851.52,
+      "date": "2016-03-10",
+      "daily_return": -0.00102758
+    },
+    {
+      "account_balance": 44165.41,
+      "date": "2016-03-11",
+      "daily_return": 0.00715802
+    },
+    {
+      "account_balance": 44129.38,
+      "date": "2016-03-14",
+      "daily_return": -0.0008158
+    },
+    {
+      "account_balance": 43911.95,
+      "date": "2016-03-15",
+      "daily_return": -0.0049271
+    },
+    {
+      "account_balance": 44118.525,
+      "date": "2016-03-16",
+      "daily_return": 0.0047043
+    },
+    {
+      "account_balance": 44255.8935,
+      "date": "2016-03-17",
+      "daily_return": 0.00311362
+    },
+    {
+      "account_balance": 44336.9816,
+      "date": "2016-03-18",
+      "daily_return": 0.00183226
+    },
+    {
+      "account_balance": 44317,
+      "date": "2016-03-21",
+      "daily_return": -0.00045068
+    },
+    {
+      "account_balance": 44316.53,
+      "date": "2016-03-22",
+      "daily_return": -0.00001061
+    },
+    {
+      "account_balance": 44252.86,
+      "date": "2016-03-23",
+      "daily_return": -0.00143671
+    },
+    {
+      "account_balance": 44237.29,
+      "date": "2016-03-24",
+      "daily_return": -0.00035184
+    },
+    {
+      "account_balance": 44256.95,
+      "date": "2016-03-28",
+      "daily_return": 0.00044442
+    },
+    {
+      "account_balance": 44698.69,
+      "date": "2016-03-29",
+      "daily_return": 0.00998126
+    },
+    {
+      "account_balance": 44705.15,
+      "date": "2016-03-30",
+      "daily_return": 0.00014452
+    },
+    {
+      "account_balance": 44865.55,
+      "date": "2016-03-31",
+      "daily_return": 0.00260238
+    },
+    {
+      "account_balance": 45152.968,
+      "date": "2016-04-01",
+      "daily_return": 0.00640621
+    },
+    {
+      "account_balance": 45114.14,
+      "date": "2016-04-04",
+      "daily_return": -0.00085992
+    },
+    {
+      "account_balance": 44958.625,
+      "date": "2016-04-05",
+      "daily_return": -0.00344715
+    },
+    {
+      "account_balance": 45388.76,
+      "date": "2016-04-06",
+      "daily_return": 0.00956735
+    },
+    {
+      "account_balance": 45170.5072,
+      "date": "2016-04-07",
+      "daily_return": -0.00544789
+    },
+    {
+      "account_balance": 45216.348,
+      "date": "2016-04-08",
+      "daily_return": 0.00101484
+    },
+    {
+      "account_balance": 45092.9128,
+      "date": "2016-04-11",
+      "daily_return": -0.00272988
+    },
+    {
+      "account_balance": 45235.88,
+      "date": "2016-04-12",
+      "daily_return": 0.0031705
+    },
+    {
+      "account_balance": 45373.2689,
+      "date": "2016-04-13",
+      "daily_return": 0.00303717
+    },
+    {
+      "account_balance": 45275.5021,
+      "date": "2016-04-14",
+      "daily_return": -0.00215472
+    },
+    {
+      "account_balance": 45422.68,
+      "date": "2016-04-15",
+      "daily_return": 0.00325072
+    },
+    {
+      "account_balance": 45549.5467,
+      "date": "2016-04-18",
+      "daily_return": 0.00279303
+    },
+    {
+      "account_balance": 45538.0136,
+      "date": "2016-04-19",
+      "daily_return": -0.0002532
+    },
+    {
+      "account_balance": 45334.3,
+      "date": "2016-04-20",
+      "daily_return": -0.00447348
+    },
+    {
+      "account_balance": 45047.1687,
+      "date": "2016-04-21",
+      "daily_return": -0.00633364
+    },
+    {
+      "account_balance": 45080.7906,
+      "date": "2016-04-22",
+      "daily_return": 0.00074637
+    },
+    {
+      "account_balance": 45039.2228,
+      "date": "2016-04-25",
+      "daily_return": -0.00092207
+    },
+    {
+      "account_balance": 44965.6416,
+      "date": "2016-04-26",
+      "daily_return": -0.00163371
+    },
+    {
+      "account_balance": 45168.5,
+      "date": "2016-04-27",
+      "daily_return": 0.00451141
+    },
+    {
+      "account_balance": 45136.3188,
+      "date": "2016-04-28",
+      "daily_return": -0.00071247
+    },
+    {
+      "account_balance": 45012.15,
+      "date": "2016-04-29",
+      "daily_return": -0.00275097
+    },
+    {
+      "account_balance": 45056.779,
+      "date": "2016-05-02",
+      "daily_return": 0.00171889
+    },
+    {
+      "account_balance": 44935.989,
+      "date": "2016-05-03",
+      "daily_return": -0.00268084
+    },
+    {
+      "account_balance": 44815.379,
+      "date": "2016-05-04",
+      "daily_return": -0.00268404
+    },
+    {
+      "account_balance": 44886.4683,
+      "date": "2016-05-05",
+      "daily_return": 0.00218539
+    },
+    {
+      "account_balance": 44868.2215,
+      "date": "2016-05-06",
+      "daily_return": -0.00101026
+    },
+    {
+      "account_balance": 45073.8728,
+      "date": "2016-05-09",
+      "daily_return": 0.00458345
+    },
+    {
+      "account_balance": 45410.4163,
+      "date": "2016-05-10",
+      "daily_return": 0.00746649
+    },
+    {
+      "account_balance": 45183.1663,
+      "date": "2016-05-11",
+      "daily_return": -0.00500436
+    },
+    {
+      "account_balance": 45130.4383,
+      "date": "2016-05-12",
+      "daily_return": -0.00116698
+    },
+    {
+      "account_balance": 44988.1287,
+      "date": "2016-05-13",
+      "daily_return": -0.0031533
+    },
+    {
+      "account_balance": 45185.5583,
+      "date": "2016-05-16",
+      "daily_return": 0.00438848
+    },
+    {
+      "account_balance": 44765.6683,
+      "date": "2016-05-17",
+      "daily_return": -0.00929257
+    },
+    {
+      "account_balance": 44490.3283,
+      "date": "2016-05-18",
+      "daily_return": -0.0061507
+    },
+    {
+      "account_balance": 44480.4879,
+      "date": "2016-05-19",
+      "daily_return": -0.00022118
+    },
+    {
+      "account_balance": 44562.8883,
+      "date": "2016-05-20",
+      "daily_return": 0.00185251
+    },
+    {
+      "account_balance": 44556.6483,
+      "date": "2016-05-23",
+      "daily_return": -0.00014003
+    },
+    {
+      "account_balance": 44883.6883,
+      "date": "2016-05-24",
+      "daily_return": 0.00733987
+    },
+    {
+      "account_balance": 44987.2583,
+      "date": "2016-05-25",
+      "daily_return": 0.00230752
+    },
+    {
+      "account_balance": 45116.1339,
+      "date": "2016-05-26",
+      "daily_return": 0.00286471
+    },
+    {
+      "account_balance": 45167.7283,
+      "date": "2016-05-27",
+      "daily_return": 0.00114359
+    },
+    {
+      "account_balance": 45165.0783,
+      "date": "2016-05-31",
+      "daily_return": -0.00005867
+    },
+    {
+      "account_balance": 45363.5483,
+      "date": "2016-06-01",
+      "daily_return": 0.00439432
+    },
+    {
+      "account_balance": 45626.0383,
+      "date": "2016-06-02",
+      "daily_return": 0.00578636
+    },
+    {
+      "account_balance": 45903.3183,
+      "date": "2016-06-03",
+      "daily_return": 0.00607723
+    },
+    {
+      "account_balance": 45964.8883,
+      "date": "2016-06-06",
+      "daily_return": 0.0013413
+    },
+    {
+      "account_balance": 45972.8183,
+      "date": "2016-06-07",
+      "daily_return": -0.000285
+    },
+    {
+      "account_balance": 46192.4683,
+      "date": "2016-06-08",
+      "daily_return": 0.00477782
+    },
+    {
+      "account_balance": 46200.4183,
+      "date": "2016-06-09",
+      "daily_return": 0.00017211
+    },
+    {
+      "account_balance": 45973.7455,
+      "date": "2016-06-10",
+      "daily_return": -0.00490629
+    },
+    {
+      "account_balance": 45700.1783,
+      "date": "2016-06-13",
+      "daily_return": -0.00595051
+    },
+    {
+      "account_balance": 45694.8883,
+      "date": "2016-06-14",
+      "daily_return": -0.00011575
+    },
+    {
+      "account_balance": 45700.8783,
+      "date": "2016-06-15",
+      "daily_return": 0.00013109
+    },
+    {
+      "account_balance": 45854.9175,
+      "date": "2016-06-16",
+      "daily_return": 0.0033706
+    },
+    {
+      "account_balance": 45579.9775,
+      "date": "2016-06-17",
+      "daily_return": -0.00599587
+    },
+    {
+      "account_balance": 45698.6683,
+      "date": "2016-06-20",
+      "daily_return": 0.00260401
+    },
+    {
+      "account_balance": 45634.8183,
+      "date": "2016-06-22",
+      "daily_return": -0.0013972
+    },
+    {
+      "account_balance": 45927.8283,
+      "date": "2016-06-23",
+      "daily_return": 0.00642076
+    },
+    {
+      "account_balance": 45179.6507,
+      "date": "2016-06-24",
+      "daily_return": -0.01629029
+    },
+    {
+      "account_balance": 45158.8783,
+      "date": "2016-06-27",
+      "daily_return": -0.00114659
+    },
+    {
+      "account_balance": 45717.9983,
+      "date": "2016-06-28",
+      "daily_return": 0.01098809
+    },
+    {
+      "account_balance": 46162.8583,
+      "date": "2016-06-29",
+      "daily_return": 0.00973052
+    },
+    {
+      "account_balance": 46828.7583,
+      "date": "2016-06-30",
+      "daily_return": 0.01384186
+    },
+    {
+      "account_balance": 47043.4883,
+      "date": "2016-07-01",
+      "daily_return": 0.00458543
+    },
+    {
+      "account_balance": 47069.1783,
+      "date": "2016-07-05",
+      "daily_return": 0.00054609
+    },
+    {
+      "account_balance": 47230.7183,
+      "date": "2016-07-06",
+      "daily_return": 0.00343197
+    },
+    {
+      "account_balance": 47205.0779,
+      "date": "2016-07-07",
+      "daily_return": -0.00054288
+    },
+    {
+      "account_balance": 47743.7759,
+      "date": "2016-07-08",
+      "daily_return": 0.01097484
+    },
+    {
+      "account_balance": 47657.4483,
+      "date": "2016-07-11",
+      "daily_return": -0.00180814
+    },
+    {
+      "account_balance": 47518.4208,
+      "date": "2016-07-12",
+      "daily_return": -0.00291723
+    },
+    {
+      "account_balance": 47690.1943,
+      "date": "2016-07-13",
+      "daily_return": 0.00361488
+    },
+    {
+      "account_balance": 47652.3203,
+      "date": "2016-07-14",
+      "daily_return": -0.00079417
+    },
+    {
+      "account_balance": 47568.1175,
+      "date": "2016-07-15",
+      "daily_return": -0.00176702
+    },
+    {
+      "account_balance": 47602.7783,
+      "date": "2016-07-18",
+      "daily_return": 0.00072866
+    },
+    {
+      "account_balance": 47547.3483,
+      "date": "2016-07-19",
+      "daily_return": -0.00116443
+    },
+    {
+      "account_balance": 47618.0883,
+      "date": "2016-07-20",
+      "daily_return": 0.00148778
+    },
+    {
+      "account_balance": 47600.6223,
+      "date": "2016-07-21",
+      "daily_return": -0.00036679
+    },
+    {
+      "account_balance": 47757.4123,
+      "date": "2016-07-22",
+      "daily_return": 0.00329386
+    },
+    {
+      "account_balance": 47686.0983,
+      "date": "2016-07-25",
+      "daily_return": -0.00149326
+    },
+    {
+      "account_balance": 47584.6583,
+      "date": "2016-07-26",
+      "daily_return": -0.00212724
+    },
+    {
+      "account_balance": 47581.5483,
+      "date": "2016-07-27",
+      "daily_return": -0.00006536
+    },
+    {
+      "account_balance": 47690.4983,
+      "date": "2016-07-28",
+      "daily_return": 0.00228975
+    },
+    {
+      "account_balance": 47940.3383,
+      "date": "2016-07-29",
+      "daily_return": 0.00523878
+    },
+    {
+      "account_balance": 47863.1227,
+      "date": "2016-08-01",
+      "daily_return": -0.00161066
+    },
+    {
+      "account_balance": 47648.4983,
+      "date": "2016-08-02",
+      "daily_return": -0.00448413
+    },
+    {
+      "account_balance": 47640.6963,
+      "date": "2016-08-03",
+      "daily_return": -0.00016374
+    },
+    {
+      "account_balance": 47759.7283,
+      "date": "2016-08-04",
+      "daily_return": 0.00249854
+    },
+    {
+      "account_balance": 47782.4919,
+      "date": "2016-08-05",
+      "daily_return": 0.00004153
+    },
+    {
+      "account_balance": 47750.7683,
+      "date": "2016-08-08",
+      "daily_return": -0.00066392
+    },
+    {
+      "account_balance": 47986.6783,
+      "date": "2016-08-09",
+      "daily_return": 0.00494044
+    },
+    {
+      "account_balance": 48038.5667,
+      "date": "2016-08-10",
+      "daily_return": 0.00108131
+    },
+    {
+      "account_balance": 48065.955,
+      "date": "2016-08-11",
+      "daily_return": 0.00057013
+    },
+    {
+      "account_balance": 48165.7239,
+      "date": "2016-08-12",
+      "daily_return": 0.00207567
+    },
+    {
+      "account_balance": 48120.8886,
+      "date": "2016-08-15",
+      "daily_return": -0.00093085
+    },
+    {
+      "account_balance": 47870.5183,
+      "date": "2016-08-16",
+      "daily_return": -0.00520294
+    },
+    {
+      "account_balance": 47954.1711,
+      "date": "2016-08-17",
+      "daily_return": 0.00174748
+    },
+    {
+      "account_balance": 48091.6151,
+      "date": "2016-08-18",
+      "daily_return": 0.00286615
+    },
+    {
+      "account_balance": 47935.6783,
+      "date": "2016-08-19",
+      "daily_return": -0.00324249
+    },
+    {
+      "account_balance": 48085.9683,
+      "date": "2016-08-22",
+      "daily_return": 0.00313524
+    },
+    {
+      "account_balance": 48062.3643,
+      "date": "2016-08-23",
+      "daily_return": -0.00049087
+    },
+    {
+      "account_balance": 47791.0183,
+      "date": "2016-08-24",
+      "daily_return": -0.00564571
+    },
+    {
+      "account_balance": 47639.6783,
+      "date": "2016-08-25",
+      "daily_return": -0.0031667
+    },
+    {
+      "account_balance": 47487.5083,
+      "date": "2016-08-26",
+      "daily_return": -0.00319419
+    },
+    {
+      "account_balance": 47786.6783,
+      "date": "2016-08-29",
+      "daily_return": 0.00629997
+    },
+    {
+      "account_balance": 47558.7519,
+      "date": "2016-08-30",
+      "daily_return": -0.00476966
+    },
+    {
+      "account_balance": 47512.6213,
+      "date": "2016-08-31",
+      "daily_return": -0.00096997
+    },
+    {
+      "account_balance": 47477.2275,
+      "date": "2016-09-01",
+      "daily_return": -0.00074493
+    },
+    {
+      "account_balance": 47607.1883,
+      "date": "2016-09-02",
+      "daily_return": 0.00273733
+    },
+    {
+      "account_balance": 47607.1883,
+      "date": "2016-09-05",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 47875.0687,
+      "date": "2016-09-06",
+      "daily_return": 0.00562689
+    },
+    {
+      "account_balance": 47664.7783,
+      "date": "2016-09-07",
+      "daily_return": -0.00355633
+    },
+    {
+      "account_balance": 47490.2283,
+      "date": "2016-09-08",
+      "daily_return": -0.00451465
+    },
+    {
+      "account_balance": 46388.9831,
+      "date": "2016-09-09",
+      "daily_return": -0.02318888
+    },
+    {
+      "account_balance": 46388.9831,
+      "date": "2016-09-11",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 46920.2783,
+      "date": "2016-09-12",
+      "daily_return": 0.01145305
+    },
+    {
+      "account_balance": 46307.6683,
+      "date": "2016-09-13",
+      "daily_return": -0.0130564
+    },
+    {
+      "account_balance": 46274.6883,
+      "date": "2016-09-14",
+      "daily_return": -0.00071219
+    },
+    {
+      "account_balance": 46605.1183,
+      "date": "2016-09-15",
+      "daily_return": 0.00714062
+    },
+    {
+      "account_balance": 46562.6627,
+      "date": "2016-09-16",
+      "daily_return": -0.00091096
+    },
+    {
+      "account_balance": 46545.6283,
+      "date": "2016-09-19",
+      "daily_return": -0.00036584
+    },
+    {
+      "account_balance": 46597.4535,
+      "date": "2016-09-20",
+      "daily_return": 0.00111343
+    },
+    {
+      "account_balance": 47038.2459,
+      "date": "2016-09-21",
+      "daily_return": 0.00945958
+    },
+    {
+      "account_balance": 47414.1143,
+      "date": "2016-09-22",
+      "daily_return": 0.0079907
+    },
+    {
+      "account_balance": 47244.1083,
+      "date": "2016-09-23",
+      "daily_return": -0.00358556
+    },
+    {
+      "account_balance": 46981.7163,
+      "date": "2016-09-26",
+      "daily_return": -0.00627511
+    },
+    {
+      "account_balance": 47276.3723,
+      "date": "2016-09-27",
+      "daily_return": 0.00627172
+    },
+    {
+      "account_balance": 47301.2183,
+      "date": "2016-09-28",
+      "daily_return": 0.00052555
+    },
+    {
+      "account_balance": 46915.8883,
+      "date": "2016-09-29",
+      "daily_return": -0.0081463
+    },
+    {
+      "account_balance": 47152.3383,
+      "date": "2016-09-30",
+      "daily_return": 0.00439915
+    },
+    {
+      "account_balance": 46939.4463,
+      "date": "2016-10-03",
+      "daily_return": -0.00451498
+    },
+    {
+      "account_balance": 46553.9243,
+      "date": "2016-10-04",
+      "daily_return": -0.00821318
+    },
+    {
+      "account_balance": 46606.7955,
+      "date": "2016-10-05",
+      "daily_return": 0.0011357
+    },
+    {
+      "account_balance": 46482.2683,
+      "date": "2016-10-06",
+      "daily_return": -0.00267187
+    },
+    {
+      "account_balance": 46443.1383,
+      "date": "2016-10-07",
+      "daily_return": -0.00127059
+    },
+    {
+      "account_balance": 46534.1939,
+      "date": "2016-10-10",
+      "daily_return": 0.00196058
+    },
+    {
+      "account_balance": 45928.4383,
+      "date": "2016-10-11",
+      "daily_return": -0.01301743
+    },
+    {
+      "account_balance": 45915.9683,
+      "date": "2016-10-12",
+      "daily_return": -0.00027151
+    },
+    {
+      "account_balance": 45921.4883,
+      "date": "2016-10-13",
+      "daily_return": 0.00012022
+    },
+    {
+      "account_balance": 45687.4883,
+      "date": "2016-10-14",
+      "daily_return": -0.00509565
+    },
+    {
+      "account_balance": 45619.2883,
+      "date": "2016-10-17",
+      "daily_return": -0.00149275
+    },
+    {
+      "account_balance": 46001.1899,
+      "date": "2016-10-18",
+      "daily_return": 0.00837149
+    },
+    {
+      "account_balance": 45931.8203,
+      "date": "2016-10-19",
+      "daily_return": -0.001508
+    },
+    {
+      "account_balance": 45914.3523,
+      "date": "2016-10-20",
+      "daily_return": -0.0003803
+    },
+    {
+      "account_balance": 45938.7383,
+      "date": "2016-10-21",
+      "daily_return": 0.00053112
+    },
+    {
+      "account_balance": 45992.7683,
+      "date": "2016-10-24",
+      "daily_return": 0.00117613
+    },
+    {
+      "account_balance": 45941.0765,
+      "date": "2016-10-25",
+      "daily_return": -0.00112391
+    },
+    {
+      "account_balance": 45635.1931,
+      "date": "2016-10-26",
+      "daily_return": -0.00665817
+    },
+    {
+      "account_balance": 45423.9055,
+      "date": "2016-10-27",
+      "daily_return": -0.00462993
+    },
+    {
+      "account_balance": 45266.1683,
+      "date": "2016-10-28",
+      "daily_return": -0.00347256
+    },
+    {
+      "account_balance": 45276.7439,
+      "date": "2016-10-31",
+      "daily_return": 0.00023363
+    },
+    {
+      "account_balance": 45137.4803,
+      "date": "2016-11-01",
+      "daily_return": -0.00307583
+    },
+    {
+      "account_balance": 45094.8483,
+      "date": "2016-11-02",
+      "daily_return": -0.00094449
+    },
+    {
+      "account_balance": 44690.801,
+      "date": "2016-11-03",
+      "daily_return": -0.00895994
+    },
+    {
+      "account_balance": 44773.6136,
+      "date": "2016-11-04",
+      "daily_return": 0.00185301
+    },
+    {
+      "account_balance": 45359.0203,
+      "date": "2016-11-07",
+      "daily_return": 0.01263036
+    },
+    {
+      "account_balance": 45472.6583,
+      "date": "2016-11-08",
+      "daily_return": 0.0025053
+    },
+    {
+      "account_balance": 45003.6374,
+      "date": "2016-11-09",
+      "daily_return": -0.01031435
+    },
+    {
+      "account_balance": 44536.1473,
+      "date": "2016-11-10",
+      "daily_return": -0.01038783
+    },
+    {
+      "account_balance": 44062.1664,
+      "date": "2016-11-11",
+      "daily_return": -0.01064261
+    },
+    {
+      "account_balance": 43986.6883,
+      "date": "2016-11-14",
+      "daily_return": -0.00171299
+    },
+    {
+      "account_balance": 44285.0283,
+      "date": "2016-11-15",
+      "daily_return": 0.00678251
+    },
+    {
+      "account_balance": 44240.7683,
+      "date": "2016-11-16",
+      "daily_return": -0.00099943
+    },
+    {
+      "account_balance": 44166.1199,
+      "date": "2016-11-17",
+      "daily_return": -0.00168732
+    },
+    {
+      "account_balance": 43934.6883,
+      "date": "2016-11-18",
+      "daily_return": -0.00524003
+    },
+    {
+      "account_balance": 44136.5727,
+      "date": "2016-11-21",
+      "daily_return": 0.0045951
+    },
+    {
+      "account_balance": 44063.2203,
+      "date": "2016-11-22",
+      "daily_return": -0.00166194
+    },
+    {
+      "account_balance": 43989.8583,
+      "date": "2016-11-23",
+      "daily_return": -0.00166493
+    },
+    {
+      "account_balance": 43989.8583,
+      "date": "2016-11-24",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 44162.4883,
+      "date": "2016-11-25",
+      "daily_return": 0.00392431
+    },
+    {
+      "account_balance": 44161.9099,
+      "date": "2016-11-28",
+      "daily_return": -0.0000131
+    },
+    {
+      "account_balance": 44293.8448,
+      "date": "2016-11-29",
+      "daily_return": 0.00298753
+    },
+    {
+      "account_balance": 43635.7883,
+      "date": "2016-11-30",
+      "daily_return": -0.01270598
+    },
+    {
+      "account_balance": 43262.2383,
+      "date": "2016-12-01",
+      "daily_return": -0.00856063
+    },
+    {
+      "account_balance": 43470.8591,
+      "date": "2016-12-02",
+      "daily_return": 0.00482224
+    },
+    {
+      "account_balance": 43551.3583,
+      "date": "2016-12-05",
+      "daily_return": 0.0018518
+    },
+    {
+      "account_balance": 43647.0723,
+      "date": "2016-12-06",
+      "daily_return": 0.00219773
+    },
+    {
+      "account_balance": 43902.5783,
+      "date": "2016-12-07",
+      "daily_return": 0.00541173
+    },
+    {
+      "account_balance": 43845.2847,
+      "date": "2016-12-08",
+      "daily_return": -0.00130502
+    },
+    {
+      "account_balance": 43984.1467,
+      "date": "2016-12-09",
+      "daily_return": 0.00316709
+    },
+    {
+      "account_balance": 44017.3383,
+      "date": "2016-12-12",
+      "daily_return": 0.00075463
+    },
+    {
+      "account_balance": 44225.0083,
+      "date": "2016-12-13",
+      "daily_return": 0.00471791
+    },
+    {
+      "account_balance": 43745.7747,
+      "date": "2016-12-14",
+      "daily_return": -0.01083626
+    },
+    {
+      "account_balance": 43889.2183,
+      "date": "2016-12-15",
+      "daily_return": 0.00327903
+    },
+    {
+      "account_balance": 43880.6631,
+      "date": "2016-12-16",
+      "daily_return": -0.00019493
+    },
+    {
+      "account_balance": 43903.9883,
+      "date": "2016-12-19",
+      "daily_return": 0.00053156
+    },
+    {
+      "account_balance": 43886.5119,
+      "date": "2016-12-20",
+      "daily_return": -0.00121598
+    },
+    {
+      "account_balance": 43811.1609,
+      "date": "2016-12-21",
+      "daily_return": -0.00171695
+    },
+    {
+      "account_balance": 43688.9427,
+      "date": "2016-12-22",
+      "daily_return": -0.00278966
+    },
+    {
+      "account_balance": 43835.0231,
+      "date": "2016-12-23",
+      "daily_return": 0.00329123
+    },
+    {
+      "account_balance": 43835.0231,
+      "date": "2016-12-26",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 43872.0983,
+      "date": "2016-12-27",
+      "daily_return": 0.00119414
+    },
+    {
+      "account_balance": 43791.0467,
+      "date": "2016-12-28",
+      "daily_return": -0.0028882
+    },
+    {
+      "account_balance": 43982.3183,
+      "date": "2016-12-29",
+      "daily_return": 0.00398144
+    },
+    {
+      "account_balance": 43883.2583,
+      "date": "2016-12-30",
+      "daily_return": -0.00285638
+    },
+    {
+      "account_balance": 44240.6883,
+      "date": "2017-01-03",
+      "daily_return": 0.00814502
+    },
+    {
+      "account_balance": 44519.0083,
+      "date": "2017-01-04",
+      "daily_return": 0.006157
+    },
+    {
+      "account_balance": 44782.0883,
+      "date": "2017-01-05",
+      "daily_return": 0.00590939
+    },
+    {
+      "account_balance": 44714.6483,
+      "date": "2017-01-06",
+      "daily_return": -0.00150596
+    },
+    {
+      "account_balance": 44775.5683,
+      "date": "2017-01-09",
+      "daily_return": 0.00136242
+    },
+    {
+      "account_balance": 44809.9083,
+      "date": "2017-01-10",
+      "daily_return": 0.00076694
+    },
+    {
+      "account_balance": 44738.2683,
+      "date": "2017-01-11",
+      "daily_return": -0.00159875
+    },
+    {
+      "account_balance": 44749.7583,
+      "date": "2017-01-12",
+      "daily_return": 0.00025683
+    },
+    {
+      "account_balance": 44762.3883,
+      "date": "2017-01-13",
+      "daily_return": 0.00028224
+    },
+    {
+      "account_balance": 44762.3883,
+      "date": "2017-01-16",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 44991.8883,
+      "date": "2017-01-17",
+      "daily_return": 0.00512707
+    },
+    {
+      "account_balance": 44889.0983,
+      "date": "2017-01-18",
+      "daily_return": -0.00228463
+    },
+    {
+      "account_balance": 44667.2283,
+      "date": "2017-01-19",
+      "daily_return": -0.00494263
+    },
+    {
+      "account_balance": 44684.0583,
+      "date": "2017-01-20",
+      "daily_return": 0.00037679
+    },
+    {
+      "account_balance": 44769.5783,
+      "date": "2017-01-23",
+      "daily_return": 0.00191388
+    },
+    {
+      "account_balance": 44787.4402,
+      "date": "2017-01-24",
+      "daily_return": 0.00039897
+    },
+    {
+      "account_balance": 44871.4735,
+      "date": "2017-01-25",
+      "daily_return": 0.00187627
+    },
+    {
+      "account_balance": 44708.8183,
+      "date": "2017-01-26",
+      "daily_return": -0.00362491
+    },
+    {
+      "account_balance": 44760.9532,
+      "date": "2017-01-27",
+      "daily_return": 0.0011661
+    },
+    {
+      "account_balance": 44602.8883,
+      "date": "2017-01-30",
+      "daily_return": -0.00353846
+    },
+    {
+      "account_balance": 44982.4583,
+      "date": "2017-01-31",
+      "daily_return": 0.00850999
+    },
+    {
+      "account_balance": 44913.9783,
+      "date": "2017-02-01",
+      "daily_return": -0.00111644
+    },
+    {
+      "account_balance": 45040.0883,
+      "date": "2017-02-02",
+      "daily_return": 0.00280781
+    },
+    {
+      "account_balance": 45257.0683,
+      "date": "2017-02-03",
+      "daily_return": 0.00481749
+    },
+    {
+      "account_balance": 45234.0583,
+      "date": "2017-02-06",
+      "daily_return": -0.00050843
+    },
+    {
+      "account_balance": 45444.5807,
+      "date": "2017-02-07",
+      "daily_return": 0.00485392
+    },
+    {
+      "account_balance": 45654.8583,
+      "date": "2017-02-08",
+      "daily_return": 0.00462712
+    },
+    {
+      "account_balance": 45710.8383,
+      "date": "2017-02-09",
+      "daily_return": 0.00122616
+    },
+    {
+      "account_balance": 45749.1686,
+      "date": "2017-02-10",
+      "daily_return": 0.00083854
+    },
+    {
+      "account_balance": 45798.6783,
+      "date": "2017-02-13",
+      "daily_return": 0.0010822
+    },
+    {
+      "account_balance": 45867.2683,
+      "date": "2017-02-14",
+      "daily_return": 0.00149764
+    },
+    {
+      "account_balance": 46121.7683,
+      "date": "2017-02-15",
+      "daily_return": 0.00554862
+    },
+    {
+      "account_balance": 46100.9883,
+      "date": "2017-02-16",
+      "daily_return": -0.00045055
+    },
+    {
+      "account_balance": 46259.2383,
+      "date": "2017-02-17",
+      "daily_return": 0.00343268
+    },
+    {
+      "account_balance": 46259.2383,
+      "date": "2017-02-20",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 46475.6283,
+      "date": "2017-02-21",
+      "daily_return": 0.00773461
+    },
+    {
+      "account_balance": 46373.7483,
+      "date": "2017-02-22",
+      "daily_return": -0.00219212
+    },
+    {
+      "account_balance": 46400.8755,
+      "date": "2017-02-23",
+      "daily_return": 0.00058497
+    },
+    {
+      "account_balance": 46431.8483,
+      "date": "2017-02-24",
+      "daily_return": 0.0006675
+    },
+    {
+      "account_balance": 46499.6383,
+      "date": "2017-02-27",
+      "daily_return": 0.00145461
+    },
+    {
+      "account_balance": 46284.5383,
+      "date": "2017-02-28",
+      "daily_return": -0.00462584
+    },
+    {
+      "account_balance": 46537.2783,
+      "date": "2017-03-01",
+      "daily_return": 0.00546057
+    },
+    {
+      "account_balance": 46295.9383,
+      "date": "2017-03-02",
+      "daily_return": -0.00518595
+    },
+    {
+      "account_balance": 46256.5383,
+      "date": "2017-03-03",
+      "daily_return": -0.00085105
+    },
+    {
+      "account_balance": 46124.9183,
+      "date": "2017-03-06",
+      "daily_return": -0.00284544
+    },
+    {
+      "account_balance": 45986.7283,
+      "date": "2017-03-07",
+      "daily_return": -0.0028154
+    },
+    {
+      "account_balance": 45758.1683,
+      "date": "2017-03-08",
+      "daily_return": -0.00497013
+    },
+    {
+      "account_balance": 45656.5283,
+      "date": "2017-03-09",
+      "daily_return": -0.00222124
+    },
+    {
+      "account_balance": 45835.6683,
+      "date": "2017-03-10",
+      "daily_return": 0.00392364
+    },
+    {
+      "account_balance": 45893.4483,
+      "date": "2017-03-13",
+      "daily_return": 0.00126059
+    },
+    {
+      "account_balance": 45735.7683,
+      "date": "2017-03-14",
+      "daily_return": -0.00343578
+    },
+    {
+      "account_balance": 46185.4683,
+      "date": "2017-03-15",
+      "daily_return": 0.00983257
+    },
+    {
+      "account_balance": 46085.7083,
+      "date": "2017-03-16",
+      "daily_return": -0.00215999
+    },
+    {
+      "account_balance": 46065.1683,
+      "date": "2017-03-17",
+      "daily_return": -0.00044569
+    },
+    {
+      "account_balance": 45999.0883,
+      "date": "2017-03-20",
+      "daily_return": -0.00061478
+    },
+    {
+      "account_balance": 45514.5483,
+      "date": "2017-03-21",
+      "daily_return": -0.01053369
+    },
+    {
+      "account_balance": 45640.6083,
+      "date": "2017-03-22",
+      "daily_return": 0.00276966
+    },
+    {
+      "account_balance": 45673.6483,
+      "date": "2017-03-23",
+      "daily_return": 0.00072392
+    },
+    {
+      "account_balance": 45719.7083,
+      "date": "2017-03-24",
+      "daily_return": 0.00100846
+    },
+    {
+      "account_balance": 45693.6283,
+      "date": "2017-03-27",
+      "daily_return": -0.00050744
+    },
+    {
+      "account_balance": 45931.8683,
+      "date": "2017-03-28",
+      "daily_return": 0.00521386
+    },
+    {
+      "account_balance": 46039.0083,
+      "date": "2017-03-29",
+      "daily_return": 0.00233259
+    },
+    {
+      "account_balance": 46109.4383,
+      "date": "2017-03-30",
+      "daily_return": 0.0015261
+    },
+    {
+      "account_balance": 46128.7583,
+      "date": "2017-03-31",
+      "daily_return": 0.00082716
+    },
+    {
+      "account_balance": 45979.3183,
+      "date": "2017-04-03",
+      "daily_return": -0.00323963
+    },
+    {
+      "account_balance": 45959.6183,
+      "date": "2017-04-04",
+      "daily_return": -0.00042845
+    },
+    {
+      "account_balance": 45828.9783,
+      "date": "2017-04-05",
+      "daily_return": -0.0028425
+    },
+    {
+      "account_balance": 45981.8183,
+      "date": "2017-04-06",
+      "daily_return": 0.00333501
+    },
+    {
+      "account_balance": 46018.2389,
+      "date": "2017-04-07",
+      "daily_return": 0.00079207
+    },
+    {
+      "account_balance": 46094.5483,
+      "date": "2017-04-10",
+      "daily_return": 0.00165824
+    },
+    {
+      "account_balance": 46101.5083,
+      "date": "2017-04-11",
+      "daily_return": 0.00015099
+    },
+    {
+      "account_balance": 45908.8683,
+      "date": "2017-04-12",
+      "daily_return": -0.00417861
+    },
+    {
+      "account_balance": 45610.5883,
+      "date": "2017-04-13",
+      "daily_return": -0.00649722
+    },
+    {
+      "account_balance": 45610.5883,
+      "date": "2017-04-14",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 45881.3483,
+      "date": "2017-04-17",
+      "daily_return": 0.00593634
+    },
+    {
+      "account_balance": 45952.5283,
+      "date": "2017-04-18",
+      "daily_return": 0.00155139
+    },
+    {
+      "account_balance": 45822.1883,
+      "date": "2017-04-19",
+      "daily_return": -0.00283641
+    },
+    {
+      "account_balance": 46003.3083,
+      "date": "2017-04-20",
+      "daily_return": 0.00395267
+    },
+    {
+      "account_balance": 45790.6083,
+      "date": "2017-04-21",
+      "daily_return": -0.00462358
+    },
+    {
+      "account_balance": 46068.4683,
+      "date": "2017-04-24",
+      "daily_return": 0.00606806
+    },
+    {
+      "account_balance": 46203.9083,
+      "date": "2017-04-25",
+      "daily_return": 0.00293997
+    },
+    {
+      "account_balance": 46086.9083,
+      "date": "2017-04-26",
+      "daily_return": -0.00253225
+    },
+    {
+      "account_balance": 46043.9983,
+      "date": "2017-04-27",
+      "daily_return": -0.00051555
+    },
+    {
+      "account_balance": 45839.7483,
+      "date": "2017-04-28",
+      "daily_return": -0.00443597
+    },
+    {
+      "account_balance": 45781.7083,
+      "date": "2017-05-01",
+      "daily_return": -0.00126615
+    },
+    {
+      "account_balance": 45691.3083,
+      "date": "2017-05-02",
+      "daily_return": -0.00197459
+    },
+    {
+      "account_balance": 45611.0283,
+      "date": "2017-05-03",
+      "daily_return": -0.00175701
+    },
+    {
+      "account_balance": 45486.0283,
+      "date": "2017-05-04",
+      "daily_return": -0.00274057
+    },
+    {
+      "account_balance": 45763.1483,
+      "date": "2017-05-05",
+      "daily_return": 0.00609242
+    },
+    {
+      "account_balance": 45715.7583,
+      "date": "2017-05-08",
+      "daily_return": -0.00103555
+    },
+    {
+      "account_balance": 45748.4183,
+      "date": "2017-05-09",
+      "daily_return": 0.00071441
+    },
+    {
+      "account_balance": 45978.7383,
+      "date": "2017-05-10",
+      "daily_return": 0.00503449
+    },
+    {
+      "account_balance": 45904.2983,
+      "date": "2017-05-11",
+      "daily_return": -0.00161901
+    },
+    {
+      "account_balance": 45850.7783,
+      "date": "2017-05-12",
+      "daily_return": -0.0011659
+    },
+    {
+      "account_balance": 46097.3183,
+      "date": "2017-05-15",
+      "daily_return": 0.00537701
+    },
+    {
+      "account_balance": 46165.1783,
+      "date": "2017-05-16",
+      "daily_return": 0.0014721
+    },
+    {
+      "account_balance": 45556.4583,
+      "date": "2017-05-17",
+      "daily_return": -0.0131857
+    },
+    {
+      "account_balance": 45713.6583,
+      "date": "2017-05-18",
+      "daily_return": 0.00345066
+    },
+    {
+      "account_balance": 46024.9983,
+      "date": "2017-05-19",
+      "daily_return": 0.00681066
+    },
+    {
+      "account_balance": 46232.6983,
+      "date": "2017-05-22",
+      "daily_return": 0.00451276
+    },
+    {
+      "account_balance": 46217.8383,
+      "date": "2017-05-23",
+      "daily_return": -0.00032142
+    },
+    {
+      "account_balance": 46396.4983,
+      "date": "2017-05-24",
+      "daily_return": 0.00386561
+    },
+    {
+      "account_balance": 46442.6583,
+      "date": "2017-05-25",
+      "daily_return": 0.0009949
+    },
+    {
+      "account_balance": 46426.4583,
+      "date": "2017-05-26",
+      "daily_return": -0.00034882
+    },
+    {
+      "account_balance": 46426.4583,
+      "date": "2017-05-29",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 46466.1383,
+      "date": "2017-05-30",
+      "daily_return": 0.00085469
+    },
+    {
+      "account_balance": 46460.0983,
+      "date": "2017-05-31",
+      "daily_return": -0.00012999
+    },
+    {
+      "account_balance": 46694.7583,
+      "date": "2017-06-01",
+      "daily_return": 0.00505079
+    },
+    {
+      "account_balance": 46737.5583,
+      "date": "2017-06-02",
+      "daily_return": 0.00091659
+    },
+    {
+      "account_balance": 46631.5783,
+      "date": "2017-06-05",
+      "daily_return": -0.00226756
+    },
+    {
+      "account_balance": 46706.9583,
+      "date": "2017-06-06",
+      "daily_return": 0.0016165
+    },
+    {
+      "account_balance": 46672.5383,
+      "date": "2017-06-07",
+      "daily_return": -0.00073694
+    },
+    {
+      "account_balance": 46808.4383,
+      "date": "2017-06-08",
+      "daily_return": 0.00291178
+    },
+    {
+      "account_balance": 46703.5183,
+      "date": "2017-06-09",
+      "daily_return": -0.00224148
+    },
+    {
+      "account_balance": 46788.5783,
+      "date": "2017-06-12",
+      "daily_return": 0.00182128
+    },
+    {
+      "account_balance": 46899.9183,
+      "date": "2017-06-13",
+      "daily_return": 0.00237964
+    },
+    {
+      "account_balance": 46774.3583,
+      "date": "2017-06-14",
+      "daily_return": -0.00267719
+    },
+    {
+      "account_balance": 46644.3583,
+      "date": "2017-06-15",
+      "daily_return": -0.0027793
+    },
+    {
+      "account_balance": 46614.3583,
+      "date": "2017-06-16",
+      "daily_return": -0.00064316
+    },
+    {
+      "account_balance": 46846.9183,
+      "date": "2017-06-19",
+      "daily_return": 0.00498902
+    },
+    {
+      "account_balance": 46621.0183,
+      "date": "2017-06-20",
+      "daily_return": -0.00482209
+    },
+    {
+      "account_balance": 46532.0983,
+      "date": "2017-06-21",
+      "daily_return": -0.00190729
+    },
+    {
+      "account_balance": 46589.6583,
+      "date": "2017-06-22",
+      "daily_return": 0.001237
+    },
+    {
+      "account_balance": 46700.2183,
+      "date": "2017-06-23",
+      "daily_return": 0.00237306
+    },
+    {
+      "account_balance": 46784.3883,
+      "date": "2017-06-26",
+      "daily_return": 0.00180235
+    },
+    {
+      "account_balance": 46380.7883,
+      "date": "2017-06-27",
+      "daily_return": -0.00862681
+    },
+    {
+      "account_balance": 46661.2083,
+      "date": "2017-06-28",
+      "daily_return": 0.00604604
+    },
+    {
+      "account_balance": 46325.0283,
+      "date": "2017-06-29",
+      "daily_return": -0.0072047
+    },
+    {
+      "account_balance": 46341.0883,
+      "date": "2017-06-30",
+      "daily_return": 0.00117366
+    },
+    {
+      "account_balance": 46389.9283,
+      "date": "2017-07-03",
+      "daily_return": 0.00105392
+    },
+    {
+      "account_balance": 46389.9283,
+      "date": "2017-07-04",
+      "daily_return": 0
+    },
+    {
+      "account_balance": 46331.0683,
+      "date": "2017-07-05",
+      "daily_return": -0.00126881
+    },
+    {
+      "account_balance": 46001.2883,
+      "date": "2017-07-06",
+      "daily_return": -0.0071179
+    },
+    {
+      "account_balance": 46249.1283,
+      "date": "2017-07-07",
+      "daily_return": 0.00538768
+    },
+    {
+      "account_balance": 46379.1073,
+      "date": "2017-07-10",
+      "daily_return": 0.00281041
+    }
+  ]
+}
